@@ -1,0 +1,92 @@
+{
+  "posts": [
+    {
+      "firstname": "SandeepRaj",
+      "lastname": "gatla",
+      "birthdate": "1999-09-09",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "SOFT PATH",
+      "jobExperience": 1,
+      "salary": 2.75,
+      "profile": "MicrosoftTeams-image (4).png",
+      "id": 1
+    },
+    {
+      "firstname": "srivani",
+      "lastname": "G",
+      "birthdate": "1999-10-12",
+      "gender": "f",
+      "education": "post graduate",
+      "company": "SOFT PATH",
+      "jobExperience": 1,
+      "salary": 2.75,
+      "profile": "srivani.jpg",
+      "id": 4
+    },
+    {
+      "firstname": "srimathi",
+      "lastname": "page",
+      "birthdate": "2000-10-12",
+      "gender": "f",
+      "education": "post graduate",
+      "company": "SOFT PATH",
+      "jobExperience": 1,
+      "salary": 2.75,
+      "profile": "srimathii.jpg",
+      "id": 5
+    },
+    {
+      "firstname": "sandhya",
+      "lastname": "pagilla",
+      "birthdate": "1999-01-01",
+      "gender": "f",
+      "education": "post graduate",
+      "company": "SOFT PATH",
+      "jobExperience": 1,
+      "salary": 2.75,
+      "profile": "sandy.jpg",
+      "id": 6
+    },
+    {
+      "firstname": "Priyanka",
+      "lastname": "D",
+      "birthdate": "2000-01-05",
+      "gender": "f",
+      "education": "post graduate",
+      "company": "SOFT PATH",
+      "jobExperience": 1,
+      "salary": 2.75,
+      "profile": "pinky.jpg",
+      "id": 7
+    },
+    {
+      "firstname": "anjali",
+      "lastname": "yerra",
+      "birthdate": "",
+      "gender": "f",
+      "education": "post graduate",
+      "company": "SOFT PATH",
+      "jobExperience": 1,
+      "salary": 2.75,
+      "profile": "anjali.jpg",
+      "id": 8
+    },
+    {
+      "firstname": "prakhyath",
+      "lastname": "gujje",
+      "birthdate": "1999-11-11",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "SOFT PATH",
+      "jobExperience": 1,
+      "salary": 2.75,
+      "profile": "download.png",
+      "id": 9
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
